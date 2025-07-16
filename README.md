@@ -20,11 +20,6 @@ A passionate Information Systems student with strong interest in software develo
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Arzeki's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)
-
 ## 📫 Contact
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/arzekiir/)  
