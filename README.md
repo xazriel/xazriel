@@ -5,7 +5,7 @@ I'm an Information Systems student who enjoys learning and building things throu
 
 🎓 Currently studying at Universitas Persada Indonesia YAI – Sistem Informasi  
 💼 Involved in projects using backend and frontend web technologies 
-🛠️ Interested in fullstack development, especially working with Laravel and MySQL.
+🛠️ Interested in fullstack development, especially working with Laravel and MySQL
 📊 Also familiar with REST API, UI/UX design, and software documentation
 
 ## Language
