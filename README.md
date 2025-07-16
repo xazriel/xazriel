@@ -2,14 +2,12 @@
 
 A passionate Information Systems student with strong interest in software development and system analysis. I enjoy building digital solutions that solve real-world problems — especially in the field of web development, system integration, and user-centered design.
 
-## 💡 About Me
-
 🎓 Currently studying at Universitas Persada Indonesia YAI – Sistem Informasi  
-💼 Experienced in project with backend and frontend web technologies  
-🛠️ Focused on fullstack development, especially with Laravel and MySQL  
+💼 Involved in projects using backend and frontend web technologies 
+🛠️ Interested in fullstack development, especially working with Laravel and MySQL.
 📊 Also familiar with REST API, UI/UX design, and software documentation
 
-## 🧰 Tech Stack
+## Language
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
