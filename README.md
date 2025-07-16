@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arzeki Inggal Rachmatullah
 
-A passionate Information Systems student with strong interest in software development and system analysis. I enjoy building digital solutions that solve real-world problems — especially in the field of web development, system integration, and user-centered design.
+I'm an Information Systems student who enjoys learning and building things through code. I have a growing interest in web development, especially in how technology can solve everyday problems. 
 
 🎓 Currently studying at Universitas Persada Indonesia YAI – Sistem Informasi  
 💼 Involved in projects using backend and frontend web technologies 
