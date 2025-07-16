@@ -3,8 +3,8 @@ My name is *Arzeki Inggal Rachmatullah*
 
 I'm an Information Systems student who enjoys learning and building things through code. I have a growing interest in web development, especially in how technology can solve everyday problems. 
 
-🎓 Currently studying at Universitas Persada Indonesia YAI – Sistem Informasi  
-💼 Involved in projects using backend and frontend web technologies 
+🎓 Currently studying at Universitas Persada Indonesia YAI – Sistem Informasi 
+💼 Involved in projects using backend and frontend web technologies
 🛠️ Interested in fullstack development, especially working with Laravel and MySQL
 📊 Also familiar with REST API, UI/UX design, and software documentation
 
