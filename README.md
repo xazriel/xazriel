@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Arzeki Inggal Rachmatullah
+# Aloooo👋 
+My name is Arzeki Inggal Rachmatullah
 
 I'm an Information Systems student who enjoys learning and building things through code. I have a growing interest in web development, especially in how technology can solve everyday problems. 
 
