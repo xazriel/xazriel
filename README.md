@@ -1,8 +1,9 @@
-# Hi, I'm Arzeki 👋
+# Hi, Azriel here 👋
+aka `·- --·· ·-· ·-·· ··`
 
 Information Systems student at **Universitas Persada Indonesia YAI**, building things with code — mostly on the web.
 
-Currently focused on fullstack web development with **Laravel**, **Vue.js**, and **MySQL**. I enjoy turning ideas into working products and writing clean, purposeful code.
+Currently focused on fullstack web development with **Laravel**. I enjoy turning ideas into working products and purposeful code.
 
 ---
 
