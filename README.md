@@ -1,5 +1,5 @@
 # Hi, Azriel here 👋
-aka `·- --·· ·-· ·-·· ··`
+aka `.- .-. --.. . -.- ..`  
 
 Information Systems student at **Universitas Persada Indonesia YAI**, building things with code — mostly on the web.
 
